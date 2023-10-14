@@ -1,3 +1,1 @@
-README.md
-file_list.txt
-hello_world
+Here is my remote repository
